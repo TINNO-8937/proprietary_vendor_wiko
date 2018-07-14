@@ -24,12 +24,12 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/wimlite/proprietary/etc/acdbdata/MTP/MTP_Headset_cal.acdb:system/etc/acdbdata/MTP/MTP_Headset_cal.acdb \
     vendor/wiko/wimlite/proprietary/etc/acdbdata/MTP/MTP_Speaker_cal.acdb:system/etc/acdbdata/MTP/MTP_Speaker_cal.acdb \
     vendor/wiko/wimlite/proprietary/etc/thermal-engine.conf:system/etc/thermal-engine.conf \
-    vendor/wiko/wimlite/proprietary/lib/hw/fingerprint.silead.default.so:system/lib/hw/fingerprint.silead.default.so \
+    vendor/wiko/wimlite/proprietary/lib/hw/fingerprint.silead.so:system/lib/hw/fingerprint.silead.so \
     vendor/wiko/wimlite/proprietary/lib/libfpfslockd_remoteapi.a:system/lib/libfpfslockd_remoteapi.a \
     vendor/wiko/wimlite/proprietary/lib/libfpsvcd_remoteapi.a:system/lib/libfpsvcd_remoteapi.a \
-    vendor/wiko/wimlite/proprietary/lib64/hw/fingerprint.chipone.default.so:system/lib64/hw/fingerprint.chipone.default.so \
-    vendor/wiko/wimlite/proprietary/lib64/hw/fingerprint.elan.default.so:system/lib64/hw/fingerprint.elan.default.so \
-    vendor/wiko/wimlite/proprietary/lib64/hw/fingerprint.silead.default.so:system/lib64/hw/fingerprint.silead.default.so \
+    vendor/wiko/wimlite/proprietary/lib64/hw/fingerprint.chipone.so:system/lib64/hw/fingerprint.chipone.so \
+    vendor/wiko/wimlite/proprietary/lib64/hw/fingerprint.elan.so:system/lib64/hw/fingerprint.elan.so \
+    vendor/wiko/wimlite/proprietary/lib64/hw/fingerprint.silead.so:system/lib64/hw/fingerprint.silead.so \
     vendor/wiko/wimlite/proprietary/lib64/libfpfslockd_remoteapi.a:system/lib64/libfpfslockd_remoteapi.a \
     vendor/wiko/wimlite/proprietary/lib64/libfpsvcd_remoteapi.a:system/lib64/libfpsvcd_remoteapi.a \
     vendor/wiko/wimlite/proprietary/vendor/lib/libactuator_ak7345.so:system/vendor/lib/libactuator_ak7345.so \
