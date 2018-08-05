@@ -27,12 +27,14 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/wimlite/proprietary/etc/thermal-engine.conf:system/etc/thermal-engine.conf \
     vendor/wiko/wimlite/proprietary/lib/hw/audio.primary.msm8937.so:system/lib/hw/audio.primary.msm8937.so \
     vendor/wiko/wimlite/proprietary/lib/hw/fingerprint.silead.default.so:system/lib/hw/fingerprint.silead.default.so \
+    vendor/wiko/wimlite/proprietary/lib/hw/sensors.msm8937.so:system/lib/hw/sensors.msm8937.so \
     vendor/wiko/wimlite/proprietary/lib/libfpfslockd_remoteapi.a:system/lib/libfpfslockd_remoteapi.a \
     vendor/wiko/wimlite/proprietary/lib/libfpsvcd_remoteapi.a:system/lib/libfpsvcd_remoteapi.a \
     vendor/wiko/wimlite/proprietary/lib64/hw/audio.primary.msm8937.so:system/lib64/hw/audio.primary.msm8937.so \
     vendor/wiko/wimlite/proprietary/lib64/hw/fingerprint.chipone.default.so:system/lib64/hw/fingerprint.chipone.default.so \
     vendor/wiko/wimlite/proprietary/lib64/hw/fingerprint.elan.default.so:system/lib64/hw/fingerprint.elan.default.so \
     vendor/wiko/wimlite/proprietary/lib64/hw/fingerprint.silead.default.so:system/lib64/hw/fingerprint.silead.default.so \
+    vendor/wiko/wimlite/proprietary/lib64/hw/sensors.msm8937.so:system/lib64/hw/sensors.msm8937.so \
     vendor/wiko/wimlite/proprietary/lib64/libfpfslockd_remoteapi.a:system/lib64/libfpfslockd_remoteapi.a \
     vendor/wiko/wimlite/proprietary/lib64/libfpsvcd_remoteapi.a:system/lib64/libfpsvcd_remoteapi.a \
     vendor/wiko/wimlite/proprietary/vendor/lib/libactuator_ak7345.so:system/vendor/lib/libactuator_ak7345.so \
