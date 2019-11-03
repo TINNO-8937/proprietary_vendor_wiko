@@ -25,12 +25,10 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/wimlite/proprietary/etc/acdbdata/MTP/MTP_Speaker_cal.acdb:system/etc/acdbdata/MTP/MTP_Speaker_cal.acdb \
     vendor/wiko/wimlite/proprietary/etc/firmware/tfa9896_v3.cnt:system/etc/firmware/tfa9896_v3.cnt \
     vendor/wiko/wimlite/proprietary/etc/thermal-engine.conf:system/etc/thermal-engine.conf \
-    vendor/wiko/wimlite/proprietary/lib/hw/audio.primary.msm8937.so:system/lib/hw/audio.primary.msm8937.so \
     vendor/wiko/wimlite/proprietary/lib/hw/fingerprint.silead.default.so:system/lib/hw/fingerprint.silead.default.so \
     vendor/wiko/wimlite/proprietary/lib/hw/sensors.msm8937.so:system/lib/hw/sensors.msm8937.so \
     vendor/wiko/wimlite/proprietary/lib/libfpfslockd_remoteapi.a:system/lib/libfpfslockd_remoteapi.a \
     vendor/wiko/wimlite/proprietary/lib/libfpsvcd_remoteapi.a:system/lib/libfpsvcd_remoteapi.a \
-    vendor/wiko/wimlite/proprietary/lib64/hw/audio.primary.msm8937.so:system/lib64/hw/audio.primary.msm8937.so \
     vendor/wiko/wimlite/proprietary/lib64/hw/fingerprint.chipone.default.so:system/lib64/hw/fingerprint.chipone.default.so \
     vendor/wiko/wimlite/proprietary/lib64/hw/fingerprint.elan.default.so:system/lib64/hw/fingerprint.elan.default.so \
     vendor/wiko/wimlite/proprietary/lib64/hw/fingerprint.silead.default.so:system/lib64/hw/fingerprint.silead.default.so \
