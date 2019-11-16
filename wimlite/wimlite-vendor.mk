@@ -1,4 +1,4 @@
-# Copyright (C) 2018 The LineageOS Project
+# Copyright (C) 2018-2019 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -26,6 +26,7 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/wimlite/proprietary/vendor/etc/firmware/tfa9896_v3.cnt:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/tfa9896_v3.cnt \
     vendor/wiko/wimlite/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
     vendor/wiko/wimlite/proprietary/vendor/lib/hw/fingerprint.silead.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/fingerprint.silead.default.so \
+    vendor/wiko/wimlite/proprietary/vendor/lib/hw/lights.msm8937.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/lights.msm8937.so \
     vendor/wiko/wimlite/proprietary/vendor/lib/libactuator_ak7345.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_ak7345.so \
     vendor/wiko/wimlite/proprietary/vendor/lib/libactuator_bu64244gwz.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_bu64244gwz.so \
     vendor/wiko/wimlite/proprietary/vendor/lib/libactuator_dw9800_imx258_p6901sunny.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_dw9800_imx258_p6901sunny.so \
@@ -205,5 +206,6 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/wimlite/proprietary/vendor/lib64/hw/fingerprint.chipone.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.chipone.default.so \
     vendor/wiko/wimlite/proprietary/vendor/lib64/hw/fingerprint.elan.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.elan.default.so \
     vendor/wiko/wimlite/proprietary/vendor/lib64/hw/fingerprint.silead.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.silead.default.so \
+    vendor/wiko/wimlite/proprietary/vendor/lib64/hw/lights.msm8937.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/lights.msm8937.so \
     vendor/wiko/wimlite/proprietary/vendor/lib64/libfpfslockd_remoteapi.a:$(TARGET_COPY_OUT_VENDOR)/lib64/libfpfslockd_remoteapi.a \
     vendor/wiko/wimlite/proprietary/vendor/lib64/libfpsvcd_remoteapi.a:$(TARGET_COPY_OUT_VENDOR)/lib64/libfpsvcd_remoteapi.a
